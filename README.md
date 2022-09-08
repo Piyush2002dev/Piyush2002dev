@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/piyush-das-ab2241201/overlay/background-image)]
+https://goldtop.live/service/details/17_Mobile%20App%20Development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Piyush Das</h1>
 <h3 align="center">Just a Beginner to make a professional carrer.</h3>
 
