@@ -1,4 +1,4 @@
-https://goldtop.live/service/details/17_Mobile%20App%20Development.gif)](https://rishavchanda.io)
+![Banner image](https://media-exp1.licdn.com/dms/image/C5616AQFTvXDVH5PrPA/profile-displaybackgroundimage-shrink_350_1400/0/1645116476168?e=1668038400&v=beta&t=luqUKmC8ZvuVkcTPI7sfShi-V1QsDCkh9XTPfTot8kY)
 <h1 align="center">Hi 👋, I'm Piyush Das</h1>
 <h3 align="center">Just a Beginner to make a professional carrer.</h3>
 
