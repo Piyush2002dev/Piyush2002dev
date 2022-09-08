@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/piyush-das-ab2241201/overlay/background-image)](https://rishavchanda.io)
+[![MasterHead](https://www.linkedin.com/in/piyush-das-ab2241201/overlay/background-image)]
 <h1 align="center">Hi 👋, I'm Piyush Das</h1>
 <h3 align="center">Just a Beginner to make a professional carrer.</h3>
 
