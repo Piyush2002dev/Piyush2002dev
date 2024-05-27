@@ -1,4 +1,4 @@
-![Banner image](https://www.canva.com/design/DAGGceus_IE/_cs38AW1BNy-aX6wuY2twg/view?utm_content=DAGGceus_IE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Banner image]()
 <h1 align="center">Hi 👋, I'm Piyush Das</h1>
 <h3 align="center">Just a Beginner to make a professional carrer.</h3>
 
