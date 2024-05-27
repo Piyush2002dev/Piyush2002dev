@@ -1,4 +1,4 @@
-![Banner image]()
+
 <h1 align="center">Hi 👋, I'm Piyush Das</h1>
 <h3 align="center">Just a Beginner to make a professional carrer.</h3>
 
