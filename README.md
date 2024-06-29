@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **piyushkumardas2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nTiVqHL14WMWHb7nK-5URdz3H_boyU0s/view?usp=drive_link](https://drive.google.com/file/d/1nTiVqHL14WMWHb7nK-5URdz3H_boyU0s/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nTiVqHL14WMWHb7nK-5URdz3H_boyU0s/view?usp=drive_link](https://drive.google.com/file/d/1NEc8ouLxdXVH9359AguRT_oqMC3stLEg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
