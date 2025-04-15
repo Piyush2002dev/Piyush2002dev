@@ -9,9 +9,9 @@
 
 ---
 
-- 🌱 Currently sharpening my skills in **JavaScript**, **Python**, and the **MERN Stack**  
+- 🌱 Currently sharpening my skills in the **MERN Stack Development**  
 - 💻 Passionate about **Web Development**, **Backend APIs**, and **Open Source**  
-- 💬 Ask me about **Java**, **C**, or anything related to beginner-friendly development  
+- 💬 Ask me about **Java**, **Javascript**, or anything related to Web Development  
 - 📫 Reach me at: **piyushkumardas2002@gmail.com**  
 - 🛠️ Building an AI-powered chatbot project with **ClickHouse**, **Langchain**, **Gemini**, **Streamlit**, and **Groq**  
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1KBbTlWdCR8nGqdUky8FGfEcOt0woUPB_/view?usp=sharing)
@@ -20,6 +20,9 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
+  <a href="https://piyushkrportfolio.netlify.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://twitter.com/pkdas007" target="blank">
     <img src="https://img.shields.io/twitter/follow/pkdas007?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
@@ -85,8 +88,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush2002dev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush2002dev&theme=radical" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush2002dev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush2002dev&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
