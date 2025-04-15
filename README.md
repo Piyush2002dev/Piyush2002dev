@@ -9,11 +9,12 @@
 
 ---
 
-- 🌱 Currently sharpening my skills in **JavaScript**, **Python**, and the **MERN Stack**
-- 💻 Passionate about **Web Development**, **Backend APIs**, and **Open Source**
-- 💬 Ask me about **Java**, **C**, or anything related to beginner-friendly development
-- 📫 Reach me at: **piyushkumardas2002@gmail.com**
-- 🛠️ Building an AI-powered chatbot project with **ClickHouse**, **Langchain**, **Gemini**, **Streamlit**, and **Groq**
+- 🌱 Currently sharpening my skills in **JavaScript**, **Python**, and the **MERN Stack**  
+- 💻 Passionate about **Web Development**, **Backend APIs**, and **Open Source**  
+- 💬 Ask me about **Java**, **C**, or anything related to beginner-friendly development  
+- 📫 Reach me at: **piyushkumardas2002@gmail.com**  
+- 🛠️ Building an AI-powered chatbot project with **ClickHouse**, **Langchain**, **Gemini**, **Streamlit**, and **Groq**  
+- 📄 [Check out my Resume](https://drive.google.com/file/d/1KBbTlWdCR8nGqdUky8FGfEcOt0woUPB_/view?usp=sharing)
 
 ---
 
