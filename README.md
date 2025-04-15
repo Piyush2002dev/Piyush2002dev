@@ -50,7 +50,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/40118184?s=200&v=4" alt="ClickHouse" width="40" height="40"/>
+  <span style="display: inline-block; padding: 8px 12px; margin-left: 10px; background-color: #f0f0f0; border-radius: 8px; font-weight: bold;">ClickHouse</span>
 </p>
 
 <!-- Frameworks & Libraries -->
@@ -59,6 +59,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
 <!-- Design Tools -->
@@ -70,15 +71,15 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush2002dev&show_icons=true&locale=en" alt="GitHub Stats" />
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush2002dev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush2002dev&theme=radical" alt="GitHub Streak" height="200"/>
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush2002dev" alt="GitHub Streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush2002dev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush2002dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -90,6 +91,3 @@
   </a>
 </p>
 
----
-
-⭐️ *Thanks for visiting! Feel free to check out my repositories and connect with me for collaborations or opportunities.* 😊
