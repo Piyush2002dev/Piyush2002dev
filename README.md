@@ -10,17 +10,17 @@
 ---
 
 - 🌱 Currently sharpening my skills in the **MERN Stack Development**  
-- 💻 Passionate about **Web Development**, **Backend APIs**, and **Open Source**  
+- 💻 Passionate about **Web Development**, **REST APIs**, and **Open Source**  
 - 💬 Ask me about **Java**, **Javascript**, or anything related to Web Development  
 - 📫 Reach me at: **piyushkumardas2002@gmail.com**  
 - 🛠️ Building an AI-powered chatbot project with **ClickHouse**, **Langchain**, **Gemini**, **Streamlit**, and **Groq**  
-- 📄 [Check out my Resume](https://drive.google.com/file/d/1KBbTlWdCR8nGqdUky8FGfEcOt0woUPB_/view?usp=sharing)
+- 📄 [Check out my Resume](https://drive.google.com/file/d/1eIJg_Ezk2at5wEOwjwCkQouPNzoAvgvv/view?usp=sharing)
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://piyushkrportfolio.netlify.app/" target="blank">
+  <a href="https://piyushkr-dev.vercel.app/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://twitter.com/pkdas007" target="blank">
