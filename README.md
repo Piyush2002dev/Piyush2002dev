@@ -95,13 +95,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush2002dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=piyush2002dev&theme=algolia" alt="trophies" />
-  </a>
-</p>
-
